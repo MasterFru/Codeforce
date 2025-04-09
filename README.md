@@ -1,4 +1,4 @@
-lign="center">🚀 Codeforces Python Solutions</h1>
+<h1 align="center">🚀 Codeforces Python Solutions</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square" />
@@ -15,17 +15,17 @@ lign="center">🚀 Codeforces Python Solutions</h1>
 
 ## 📂 Structure
 
-odeforces-Solutions/
-├── 📁 A/
-│ ├── 001_problem_name.py
-│ └── ...
-├── 📁 B/
-│ ├── 002_problem_name.py
-│ └── ...
-├── 📁 C/
-│ ├── 003_problem_name.py
-│ └── ...
-└── README.md
+odeforces-Solutions/ <br>
+├── 📁 A/ <br>
+│ ├── 001_problem_name.py <br>
+│ └── ... <br>
+├── 📁 B/ <br>
+│ ├── 002_problem_name.py <br>
+│ └── ... <br>
+├── 📁 C/ <br>
+│ ├── 003_problem_name.py <br>
+│ └── ... <br>
+└── README.md <br>
 
 > ✅ Each folder (A, B, C...) represents the problem difficulty category based on Codeforces contest divisions.
 
