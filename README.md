@@ -15,14 +15,15 @@ lign="center">🚀 Codeforces Python Solutions</h1>
 
 ## 📂 Structure
 
-📁 Codeforces-Solutions/
-├── 📁 A/ │
-├── 001_problem_name.py
+odeforces-Solutions/
+├── 📁 A/
+│ ├── 001_problem_name.py
 │ └── ...
-├── 📁 B/ │
-├── 002_problem_name.py │
-└── ...
+├── 📁 B/
+│ ├── 002_problem_name.py
+│ └── ...
 ├── 📁 C/
+│ ├── 003_problem_name.py
 │ └── ...
 └── README.md
 
