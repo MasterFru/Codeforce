@@ -15,7 +15,7 @@
 
 ## 📂 Structure
 
-odeforces-Solutions/ <br>
+Codeforces-Solutions/ <br>
 ├── 📁 A/ <br>
 │ ├── 001_problem_name.py <br>
 │ └── ... <br>
